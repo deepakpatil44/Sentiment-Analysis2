@@ -1,39 +1,36 @@
+
 Customer review
 
 Expected output
 
-Excellent product! The quality is amazing.
+Excellent product! I absolutely love it.
 
 Positive
 
-I absolutely love this product. Highly recommended!
+The quality is amazing, and delivery was fast.
 
 Positive
 
-The product is good, but delivery was slow.
-
-Positive
-
-Very poor quality. I regret buying it.
+I am very disappointed with this product.
 
 Negative
 
-The product arrived damaged and customer service was unhelpful.
+The product arrived broken and damaged.
 
 Negative
 
-The product is okay, but nothing special.
+The product is okay, but nothing impressive.
 
 Neutral
 
-The package contains a phone, charger, and headphones.
+It comes with a charger and USB cable.
 
 Neutral
 
-It has a 5000 mAh battery and a 6.5-inch display.
+Good quality, but the delivery was very slow.
 
-Neutral
+Positive
 
-Key advantage: This prompt helps identify customer satisfaction consistently by analyzing the overall meaning, emotional tone, and context of reviews while ensuring that the output is always exactly one of the three permitted sentiment labels.
+The product looks nice, but its performance is terrible.
 
-
+Negative
